@@ -20,10 +20,10 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Jiayou Zhong",
-  logo_name: "Jiayou Zhong -  钟佳有",
-  nickname: "SamZ - a sports enthusiast and programmer",
+  logo_name: "钟佳有",
+  nickname: "Sam - sports enthusiast",
   subTitle:
-    "Hi! I'm a Third-Year Computer Science Student at University of Waterloo, Canada. Primarily interested in AI, Back-end development, Game Design Machine Learning and Data Science.",
+    "Hi! I'm a Third-Year Computer Science Student at University of Waterloo. Primarily interested in AI, Back-end development, Game Design, Machine Learning and Data Science. Feel free to connect with me through Linkedln!",
   resumeLink:
     "https://drive.google.com/file/d/14LyhMJeac0DfgbPMTbfWL5rXMrAIaCh8/view?usp=sharing",
   portfolio_repository:
@@ -227,7 +227,7 @@ const degrees = {
       title: "University of Waterloo",
       subtitle: "Bachelor of Computer Science, specilization in Business",
       logo_path: "UW.png",
-      alt_name: "IIITDM Kurnool",
+      alt_name: "University of Waterloo",
       duration: "2022 - 2026",
       descriptions: [
         "⚡ Object-Oriented Software Development",
@@ -402,7 +402,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create AI/ML/DS and gaming projects.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create AI/ML/DS and gaming projects. I have done lots of projects related to Stock:)",
   avatar_image_path: "projects_image.svg",
 };
 
