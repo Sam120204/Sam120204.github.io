@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Jiayou Zhong",
   logo_name: "钟佳有",
-  nickname: "Sam - sports enthusiast",
+  nickname: "Sam Zhong",
   subTitle:
     "Hi! I'm a Third-Year Computer Science Student at University of Waterloo. Primarily interested in AI, Back-end development, Game Design, Machine Learning and Data Science. Feel free to connect with me through Linkedln!",
   resumeLink:
