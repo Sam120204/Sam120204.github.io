@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Jiayou Zhong",
-  logo_name: "Jiayou Zhong",
+  logo_name: "Jiayou Zhong -  钟佳有",
   nickname: "SamZ - a sports enthusiast and programmer",
   subTitle:
     "Hi! I'm a Third-Year Computer Science Student at University of Waterloo, Canada. Primarily interested in AI, Back-end development, Game Design Machine Learning and Data Science.",
@@ -109,7 +109,7 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
+        "⚡ Building responsive website front end using React",
         "⚡ Creating application backend in Node, Express & Flask",
       ],
       softwareSkills: [
@@ -161,13 +161,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:gatsby",
           style: {
             color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
           },
         },
       ],
@@ -409,71 +402,72 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create AI/ML/DS and gaming projects.",
   avatar_image_path: "projects_image.svg",
 };
 
-const publicationsHeader = {
-  title: "Publications",
-  description: "Some of my published Articles, Blogs and Research.",
-  avatar_image_path: "projects_image.svg",
-};
+// const publicationsHeader = {
+//   title: "Publications",
+//   description: "Some of my published Articles, Blogs and Research.",
+//   avatar_image_path: "projects_image.svg",
+// };
 
-const publications = {
-  data: [
-    {
-      id: "neuro-symbolic-sudoku-solver",
-      name: "Neuro-Symbolic Sudoku Solver",
-      createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
-    },
-    {
-      id: "mdp-diffusion",
-      name: "MDP-Diffusion",
-      createdAt: "2023-09-19T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
-    },
-    {
-      id: "consistency-models",
-      name: "Consistency Models",
-      createdAt: "2023-10-12T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
-    },
-  ],
-};
+// const publications = {
+//   data: [
+//     {
+//       id: "neuro-symbolic-sudoku-solver",
+//       name: "Neuro-Symbolic Sudoku Solver",
+//       createdAt: "2023-07-02T00:00:00Z",
+//       description: "Paper published in KDD KiML 2023",
+//       url: "https://arxiv.org/abs/2307.00653",
+//     },
+//     {
+//       id: "mdp-diffusion",
+//       name: "MDP-Diffusion",
+//       createdAt: "2023-09-19T00:00:00Z",
+//       description: "Blog published in Paperspace",
+//       url: "https://blog.paperspace.com/mdp-diffusion/",
+//     },
+//     {
+//       id: "consistency-models",
+//       name: "Consistency Models",
+//       createdAt: "2023-10-12T00:00:00Z",
+//       description: "Blog published in Paperspace",
+//       url: "https://blog.paperspace.com/consistency-models/",
+//     },
+//   ],
+// };
 
 // Contact Page
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
-    description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+    profile_image_path: "zjy.png",
+    description: "Feel free to message me even just say HI :)",
   },
   blogSection: {
-    title: "Blogs",
+    title: "Hackathon",
     subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+      "I like participating Hackathons and creat some CRAZY proejcts with INNOVATIVE IDEAS",
+    link:
+      "https://devpost.com/zhongjiayou1202?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    subtitle: "255 Sunview Street, Waterloo",
+    locality: "Waterloo",
+    country: "Canada",
+    region: "ON",
+    postalCode: "N2L3V8",
+    streetAddress: "255 Sunview Street, Waterloo",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link:
+      "https://www.google.com/maps/dir//255+Sunview+St,+Waterloo,+ON+N2L+3V8,+Canada/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x882bf5f676458efd:0x38450bf3d00829c5?sa=X&ved=1t:707&ictx=111",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Phone Number",
+    subtitle: "+1 647-687-9221(Canada) or +86 18907114217(China)",
   },
 };
 
@@ -488,7 +482,7 @@ export {
   certifications,
   experience,
   projectsHeader,
-  publicationsHeader,
-  publications,
+  // publicationsHeader,
+  // publications,
   contactPageData,
 };

@@ -1,20 +1,16 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "R_kgDOJrc1cQ",
+      "name": "OpenFintech",
+      "createdAt": "2023-06-05T05:27:40Z",
+      "url": "https://github.com/Laurier-Fintech/OpenFintech",
+      "description": "OpenFintech is a financial analysis library designed for Python developers and financial analysts. It provides powerful tools for conducting both trend following and mean reversion analyses, utilizing financial market data. This project aims to make complex financial algorithms accessible and easy to use.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
         },
         {
           "name": "Jupyter Notebook",
@@ -23,11 +19,11 @@
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "R_kgDOL6lepg",
+      "name": "Stock_Trading_Reddit",
+      "createdAt": "2024-05-12T17:49:35Z",
+      "url": "https://github.com/Sam120204/Stock_Trading_Reddit",
+      "description": "TrendSage, the stock prediction reddit tool, aims to develop a correlation between stock predictions based on the posts or comments on Reddit and the actual stock trends.",
       "isFork": false,
       "languages": [
         {
@@ -37,24 +33,20 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "R_kgDOLXdO0w",
+      "name": "Algoherence",
+      "createdAt": "2024-02-24T17:53:44Z",
+      "url": "https://github.com/KenWuqianghao/Algoherence",
+      "description": "Empowering Financial Literacy for ALL using LLM Agents for Algorithmic Trading and Learning",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         },
         {
           "name": "Dockerfile",
@@ -63,60 +55,34 @@
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "R_kgDOLEQTiw",
+      "name": "Chess_Game",
+      "createdAt": "2024-01-13T01:32:13Z",
+      "url": "https://github.com/Sam120204/Chess_Game",
+      "description": "Using C++ to implement the Chess Game",
       "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
+      "languages": []
     },
     {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "id": "R_kgDOLQTnuA",
+      "name": "MIPS_Assembler",
+      "createdAt": "2024-02-09T20:42:57Z",
+      "url": "https://github.com/Sam120204/MIPS_Assembler",
+      "description": "The task was to develop a MIPS CPU simulator, using C++",
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "R_kgDOJyG1Hg",
+      "name": "FlappyBird---Python-with-NEAT",
+      "createdAt": "2023-06-21T05:47:49Z",
+      "url": "https://github.com/Sam120204/FlappyBird---Python-with-NEAT",
+      "description": "Using an AI to play the game of flappy bird using Python and the module NEAT - python.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
         }
       ]
     }
