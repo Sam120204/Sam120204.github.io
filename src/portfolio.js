@@ -25,9 +25,9 @@ const greeting = {
   subTitle:
     "Hi! I'm a Third-Year Computer Science Student at University of Waterloo. Primarily interested in AI, Back-end development, Game Design, Machine Learning and Data Science. Feel free to connect with me through Linkedln!",
   resumeLink:
-    "https://drive.google.com/file/d/14LyhMJeac0DfgbPMTbfWL5rXMrAIaCh8/view?usp=sharing",
+    "https://drive.google.com/file/d/1h0Ms8pZQf_Fe7Cor44oE6edit2oIalEm/view?usp=sharing",
   portfolio_repository:
-    "https://drive.google.com/file/d/14LyhMJeac0DfgbPMTbfWL5rXMrAIaCh8/view?usp=sharing",
+    "https://drive.google.com/file/d/1h0Ms8pZQf_Fe7Cor44oE6edit2oIalEm/view?usp=sharing",
   githubProfile: "https://github.com/Sam120204",
 };
 
