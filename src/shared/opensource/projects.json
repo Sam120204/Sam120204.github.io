@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "id": "R_kgDOL6lepg",
+      "name": "Stock_Trading_Reddit",
+      "createdAt": "2024-05-12T17:49:35Z",
+      "url": "https://github.com/Sam120204/Stock_Trading_Reddit",
+      "description": "TrendSage aims to develop a correlation between stock and cryptocurrency predictions based on the posts or comments on Reddit and the actual market trends.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
       "id": "R_kgDOJrc1cQ",
       "name": "OpenFintech",
       "createdAt": "2023-06-05T05:27:40Z",
@@ -15,20 +33,6 @@
         {
           "name": "Jupyter Notebook",
           "iconifyClass": "logos-jupyter"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOL6lepg",
-      "name": "Stock_Trading_Reddit",
-      "createdAt": "2024-05-12T17:49:35Z",
-      "url": "https://github.com/Sam120204/Stock_Trading_Reddit",
-      "description": "TrendSage, the stock prediction reddit tool, aims to develop a correlation between stock predictions based on the posts or comments on Reddit and the actual stock trends.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
         }
       ]
     },
@@ -55,20 +59,20 @@
       ]
     },
     {
+      "id": "R_kgDOL3-Mww",
+      "name": "Compiler_for_WLP4_Language",
+      "createdAt": "2024-05-06T20:08:31Z",
+      "url": "https://github.com/Sam120204/Compiler_for_WLP4_Language",
+      "description": "This repository contains a compiler for the WLP4 language, which is a simplified version of C. WLP4 stands for “Waterloo, Language, Plus, Pointers, Plus, Procedures.” The compiler is implemented in C++ and consists of several components to handle different stages of the compilation process, including scanning, parsing, type checking, and code gen",
+      "isFork": false,
+      "languages": []
+    },
+    {
       "id": "R_kgDOLEQTiw",
       "name": "Chess_Game",
       "createdAt": "2024-01-13T01:32:13Z",
       "url": "https://github.com/Sam120204/Chess_Game",
       "description": "Using C++ to implement the Chess Game",
-      "isFork": false,
-      "languages": []
-    },
-    {
-      "id": "R_kgDOLQTnuA",
-      "name": "MIPS_Assembler",
-      "createdAt": "2024-02-09T20:42:57Z",
-      "url": "https://github.com/Sam120204/MIPS_Assembler",
-      "description": "The task was to develop a MIPS CPU simulator, using C++",
       "isFork": false,
       "languages": []
     },

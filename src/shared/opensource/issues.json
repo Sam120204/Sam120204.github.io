@@ -1,6 +1,27 @@
 {
   "closed": 0,
-  "data": [],
-  "open": 0,
-  "totalCount": 0
+  "data": [
+    {
+      "id": "I_kwDOJPMxas6LnePL",
+      "closed": false,
+      "title": "The pop-up window does not sync with the submission, days are showing off",
+      "createdAt": "2024-06-09T16:55:24Z",
+      "url": "https://github.com/LeetSync/LeetSync/issues/158",
+      "number": 158,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "LeetSync",
+        "url": "https://github.com/LeetSync/LeetSync",
+        "owner": {
+          "login": "LeetSync",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/166941924?v=4",
+          "url": "https://github.com/LeetSync"
+        }
+      }
+    }
+  ],
+  "open": 1,
+  "totalCount": 1
 }

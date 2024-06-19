@@ -1,6 +1,11 @@
 {
   "data": [
     {
+      "login": "LeetSync",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/166941924?v=4",
+      "__typename": "Organization"
+    },
+    {
       "login": "Laurier-Fintech",
       "avatarUrl": "https://avatars.githubusercontent.com/u/122145319?v=4",
       "__typename": "Organization"
