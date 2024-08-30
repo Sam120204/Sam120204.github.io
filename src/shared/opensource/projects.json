@@ -19,6 +19,46 @@
       ]
     },
     {
+      "id": "R_kgDOMepxEA",
+      "name": "Fin4All",
+      "createdAt": "2024-08-03T02:48:41Z",
+      "url": "https://github.com/Sam120204/Fin4All",
+      "description": "Fin4All is an all-in-one investment assistant that democratizes access to real-time stock analysis, sentiment-driven insights, and personalized investment recommendations for investors of all experience levels.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOMkk3yw",
+      "name": "MedScan-Mentor",
+      "createdAt": "2024-08-17T03:18:38Z",
+      "url": "https://github.com/BobZheng00/MedScan-Mentor",
+      "description": "MediScan Mentor is an innovative application designed to assist medical students in interpreting CT scans.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
       "id": "R_kgDOJrc1cQ",
       "name": "OpenFintech",
       "createdAt": "2023-06-05T05:27:40Z",
@@ -66,29 +106,6 @@
       "description": "This repository contains a compiler for the WLP4 language, which is a simplified version of C. WLP4 stands for “Waterloo, Language, Plus, Pointers, Plus, Procedures.” The compiler is implemented in C++ and consists of several components to handle different stages of the compilation process, including scanning, parsing, type checking, and code gen",
       "isFork": false,
       "languages": []
-    },
-    {
-      "id": "R_kgDOLEQTiw",
-      "name": "Chess_Game",
-      "createdAt": "2024-01-13T01:32:13Z",
-      "url": "https://github.com/Sam120204/Chess_Game",
-      "description": "Using C++ to implement the Chess Game",
-      "isFork": false,
-      "languages": []
-    },
-    {
-      "id": "R_kgDOJyG1Hg",
-      "name": "FlappyBird---Python-with-NEAT",
-      "createdAt": "2023-06-21T05:47:49Z",
-      "url": "https://github.com/Sam120204/FlappyBird---Python-with-NEAT",
-      "description": "Using an AI to play the game of flappy bird using Python and the module NEAT - python.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
     }
   ]
 }

@@ -2,6 +2,31 @@
   "closed": 0,
   "data": [
     {
+      "id": "PR_kwDOMkk3y854plHC",
+      "title": "Sam",
+      "url": "https://github.com/BobZheng00/MedScan-Mentor/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69765002?v=4",
+        "url": "https://github.com/BobZheng00",
+        "login": "BobZheng00"
+      },
+      "createdAt": "2024-08-17T23:26:46Z",
+      "number": 7,
+      "changedFiles": 10,
+      "additions": 203,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "MedScan-Mentor",
+        "url": "https://github.com/BobZheng00/MedScan-Mentor",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/69765002?v=4",
+          "login": "BobZheng00",
+          "url": "https://github.com/BobZheng00"
+        }
+      }
+    },
+    {
       "id": "MDExOlB1bGxSZXF1ZXN0NTQ3ODI0NDQ4",
       "title": "Update text",
       "url": "https://github.com/kevincui1993/onlineOCR/pull/2",
@@ -27,7 +52,7 @@
       }
     }
   ],
-  "merged": 1,
+  "merged": 2,
   "open": 0,
-  "totalCount": 1
+  "totalCount": 2
 }

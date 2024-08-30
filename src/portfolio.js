@@ -225,7 +225,7 @@ const degrees = {
   degrees: [
     {
       title: "University of Waterloo",
-      subtitle: "Bachelor of Computer Science, specilization in Business",
+      subtitle: "Bachelor of Computer Science",
       logo_path: "UW.png",
       alt_name: "University of Waterloo",
       duration: "2022 - 2026",
@@ -242,6 +242,22 @@ const degrees = {
       ],
       website_link:
         "https://uwaterloo.ca/future-students/programs/computer-science",
+    },
+    {
+      title: "Wilfrid Laurier University",
+      subtitle: "Specilization in Business",
+      logo_path: "Laurier.png",
+      alt_name: "Wilfrid Laurier University",
+      duration: "2022 - 2023",
+      descriptions: [
+        "⚡ Business Environment",
+        "⚡ Business Operation",
+        "⚡ Business Finance",
+        "⚡ Business Accounting",
+        "⚡ Business Organization",
+      ],
+      website_link:
+        "https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/index.html",
     },
   ],
 };
