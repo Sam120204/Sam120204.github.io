@@ -311,27 +311,59 @@ const experience = {
           company: "AKHNY SOLUTIONS INC.",
           company_url: "https://www.akhnysolutions.ca/",
           logo_path: "AK.png",
-          duration: "May 2024 - Present",
+          duration: "May 2024 - August 2024",
           location: "Milton, ON, Canada",
           description: `
-          Develop custom data models and algorithms to apply to data sets;
-          Develop custom web pages and UI elements using JavaScript, HTML and CSS;
-          Combine and onboard datasets, client information, and required data using the REACT framework;
-          Develop processes and tools to monitor and analyze model performance and data accuracy;
-          Assist in developing applications for clients according to the business needs as required.
-        `,
+          Utilized React Native for cross-platform compatibility, Kotlin for native features, with Figma for UI/UX design; 
+          Setup backend architecture for the Android app using MongoDB for efficient user sign-up data management; 
+          Integrated Google Authentication - OAuth 2.0 setup with Firebase to enhance security and streamline login; 
+          Used Postman to test API endpoints, ensuring account registration data retrieval and submission; 
+          Tested the app using JUnit for unit testing, Espresso for UI testing, and manual testing to ensure functionality`,
           color: "#000000",
         },
         {
           title: "Software Developer",
-          company: "Junior Kids",
+          company: "JuniorKids",
           company_url: "https://juniorkids.ca/",
           logo_path: "JK.png",
           duration: "January 2024 - April 2024",
           location: "Montreal, Québec, Canada",
-          description:
-            "Design and implement AI algorithms and models that make learning engaging and effective for young children; Utilize data and insights from competitive companies to inform and enhance our AI solutions, ensuring our products remain at the cutting edge of technology and education; Leverage AI and machine learning to offer innovative suggestions for children's clothing designs, incorporating trends and preferences identified through data analysis.",
+          description: `
+          Utilized the Python Reddit API Wrapper to gather posts and comments, filtered with the Named Entity; 
+          Recognition and spaCy model, and performed sentiment analysis with OpenAI’s LLMs; 
+          Deployed functions on AWS to fetch stock ticker prices from Yahoo Finance, storing the data in PostgreSQL; 
+          Fine-tuned a BERT model using sentiment scores and time series prices as labels, training it to analyze and predict stock trends; 
+          Integrated a chatbot using GPT-4 with RAG to fetch additional papers and provide users with analysis based on the correlation between time series prices and sentiment analysis; 
+          Utilized Streamlit, Docker, and Google Cloud for website deployment.
+          `,
           color: "#0879bf",
+        },
+      ],
+    },
+    {
+      title: "Research Assistants",
+      experiences: [
+        {
+          title: "Human Computer Interaction Research Assistant",
+          company: "University of Waterloo",
+          company_url: "https://edithlaw.ca/",
+          logo_path: "uwaterloo.png",
+          duration: "September 2024 - Now",
+          location: "Waterloo, Ontario, Canada",
+          description:
+            "Working with Professor Edith Law on the project of 'Human Computer Interaction'.",
+          color: "#4285F4",
+        },
+        {
+          title: "Machine Learning Research Assistant",
+          company: "",
+          // company_url: "https://www.mentorcollege.edu/",
+          logo_path: "ML.png",
+          duration: "September 2024 - Now",
+          location: "Macquarie University, Remotely",
+          description:
+            "Working with professor Usman Naseem on the project of 'Machine Learning'.",
+          color: "#181717",
         },
       ],
     },
@@ -373,9 +405,21 @@ const experience = {
         },
       ],
     },
+
     {
-      title: "Volunteerships",
+      title: "Volunteers",
       experiences: [
+        {
+          title: "Hackathon Volunteer",
+          company: "Hack the North",
+          company_url: "https://hackthenorth.com/",
+          logo_path: "HTN.png",
+          duration: "September 2024",
+          location: "Waterloo, ON, Canada",
+          description:
+            "Volunteered at Hack the North, the largest hackathon in Canada, where I assisted in organizing the event, setting up the venue, and providing technical support to participants.",
+          color: "#4285F4",
+        },
         {
           title: "Sales Representative",
           company: "NBA Retail Store",
