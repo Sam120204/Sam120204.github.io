@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "钟佳有",
   nickname: "Sam Zhong",
   subTitle:
-    "Hi! I'm a Third-Year Computer Science Student at University of Waterloo. Primarily interested in AI, Back-end development, Game Design, Machine Learning and Data Science. Feel free to connect with me through Linkedln!",
+    "Hi! I'm a 3B Year Computer Science Student at University of Waterloo. Primarily interested in Machine Learning, Fintech, Application Development, and Full Stack Development. Feel free to connect with me through Linkedln!",
   resumeLink:
     "https://drive.google.com/file/d/1h0Ms8pZQf_Fe7Cor44oE6edit2oIalEm/view?usp=sharing",
   portfolio_repository:
@@ -307,6 +307,18 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Machine Learning Engineer",
+          company: "Health Canada",
+          company_url:
+            "https://www.canada.ca/en/health-canada/corporate/about-health-canada/branches-agencies/pest-management-regulatory-agency.html",
+          logo_path: "health_canada_logo.jpg",
+          duration: "Jan 2025 - Present",
+          location: "Ottawa, ON, Canada",
+          description: `
+          Building a modular, flexible system for evaluating and optimizing large language models (LLMs) by integrating features like retrieval-augmented generation (RAG), automated testing, and customizable configurations.`,
+          color: "#000000",
+        },
+        {
           title: "Software Engineer",
           company: "AKHNY SOLUTIONS INC.",
           company_url: "https://www.akhnysolutions.ca/",
@@ -326,7 +338,7 @@ const experience = {
           company: "JuniorKids",
           company_url: "https://juniorkids.ca/",
           logo_path: "JK.png",
-          duration: "January 2024 - April 2024",
+          duration: "January 2024 - November 2024",
           location: "Montreal, Québec, Canada",
           description: `
           Utilized the Python Reddit API Wrapper to gather posts and comments, filtered with the Named Entity; 
@@ -351,18 +363,18 @@ const experience = {
           duration: "September 2024 - Now",
           location: "Waterloo, Ontario, Canada",
           description:
-            "Working with Professor Edith Law on the project of 'Human Computer Interaction'.",
+            "Conducting research in Human-Computer Interaction alongside PhD student Henry Yang under the supervision of Professor Edith. The project focuses on building a knowledge graph that tracks users' online learning to ensure they stay aligned with their areas of interest.",
           color: "#4285F4",
         },
         {
           title: "Machine Learning Research Assistant",
           company: "",
           // company_url: "https://www.mentorcollege.edu/",
-          logo_path: "ML.png",
+          logo_path: "macquarie_university_logo.jpg",
           duration: "September 2024 - Now",
           location: "Macquarie University, Remotely",
           description:
-            "Working with professor Usman Naseem on the project of 'Machine Learning'.",
+            "Conducting research in ML/AI with Professor Usman Naseem, focusing on Modular Pluralism—exploring how community-driven language models contribute to the interpretability of black-box AI systems by generating meaningful and culturally diverse responses.",
           color: "#181717",
         },
       ],
@@ -370,6 +382,17 @@ const experience = {
     {
       title: "Part-time positions",
       experiences: [
+        {
+          title: "Director of Technology",
+          company: "The GoldenHack",
+          company_url: "https://www.thegoldenhack.ca/",
+          logo_path: "thegoldenhack_logo.jpg",
+          duration: "June 2024 - Present",
+          location: "Waterloo, ON, Canada",
+          description:
+            "Develop and manage the technology infrastructure, including the hackathon website. Collaborate with team members to innovate and improve event experiences.",
+          color: "#4285F4",
+        },
         {
           title: "Software Developer",
           company: "WAT.ai",
