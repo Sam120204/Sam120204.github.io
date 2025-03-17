@@ -1,0 +1,17 @@
+.education-main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px; /* Match the home page margin top */
+}
+
+.education-content {
+  width: 100%;
+  max-width: 1200px; /* Match home page max width */
+  padding: 0 20px; /* Match home page padding */
+  margin: 0 auto; /* Center like home page */
+}
+
+/* Apply to other elements in your education page */

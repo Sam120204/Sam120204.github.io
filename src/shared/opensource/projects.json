@@ -1,20 +1,20 @@
 {
   "data": [
     {
-      "id": "R_kgDOL6lepg",
-      "name": "Stock_Trading_Reddit",
-      "createdAt": "2024-05-12T17:49:35Z",
-      "url": "https://github.com/Sam120204/Stock_Trading_Reddit",
-      "description": "TrendSage aims to develop a correlation between stock and cryptocurrency predictions based on the posts or comments on Reddit and the actual market trends.",
+      "id": "R_kgDONZM9aQ",
+      "name": "UWPilot",
+      "createdAt": "2024-12-05T06:19:43Z",
+      "url": "https://github.com/Sam120204/UWPilot",
+      "description": "UWPilot is the ultimate course planning tool for University of Waterloo students. It helps you visualize course pathways, understand prerequisites, and plan your academic schedule with ease.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     },
@@ -41,42 +41,6 @@
       ]
     },
     {
-      "id": "R_kgDOMkk3yw",
-      "name": "MedScan-Mentor",
-      "createdAt": "2024-08-17T03:18:38Z",
-      "url": "https://github.com/BobZheng00/MedScan-Mentor",
-      "description": "MediScan Mentor is an innovative application designed to assist medical students in interpreting CT scans.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOJrc1cQ",
-      "name": "OpenFintech",
-      "createdAt": "2023-06-05T05:27:40Z",
-      "url": "https://github.com/Laurier-Fintech/OpenFintech",
-      "description": "OpenFintech is a financial analysis library designed for Python developers and financial analysts. It provides powerful tools for conducting both trend following and mean reversion analyses, utilizing financial market data. This project aims to make complex financial algorithms accessible and easy to use.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        }
-      ]
-    },
-    {
       "id": "R_kgDOLXdO0w",
       "name": "Algoherence",
       "createdAt": "2024-02-24T17:53:44Z",
@@ -99,13 +63,58 @@
       ]
     },
     {
-      "id": "R_kgDOL3-Mww",
-      "name": "Compiler_for_WLP4_Language",
-      "createdAt": "2024-05-06T20:08:31Z",
-      "url": "https://github.com/Sam120204/Compiler_for_WLP4_Language",
-      "description": "This repository contains a compiler for the WLP4 language, which is a simplified version of C. WLP4 stands for “Waterloo, Language, Plus, Pointers, Plus, Procedures.” The compiler is implemented in C++ and consists of several components to handle different stages of the compilation process, including scanning, parsing, type checking, and code gen",
+      "id": "R_kgDOL6lepg",
+      "name": "Stock_Trading_Reddit",
+      "createdAt": "2024-05-12T17:49:35Z",
+      "url": "https://github.com/Sam120204/Stock_Trading_Reddit",
+      "description": "TrendSage aims to develop a correlation between stock and cryptocurrency predictions based on the posts or comments on Reddit and the actual market trends.",
       "isFork": false,
-      "languages": []
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJrc1cQ",
+      "name": "OpenFintech",
+      "createdAt": "2023-06-05T05:27:40Z",
+      "url": "https://github.com/Laurier-Fintech/OpenFintech",
+      "description": "OpenFintech is a financial analysis library designed for Python developers and financial analysts. It provides powerful tools for conducting both trend following and mean reversion analyses, utilizing financial market data. This project aims to make complex financial algorithms accessible and easy to use.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOMkk3yw",
+      "name": "MedScan-Mentor",
+      "createdAt": "2024-08-17T03:18:38Z",
+      "url": "https://github.com/BobZheng00/MedScan-Mentor",
+      "description": "MediScan Mentor is an innovative application designed to assist medical students in interpreting CT scans.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
     }
   ]
 }

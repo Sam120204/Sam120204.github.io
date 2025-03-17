@@ -6,8 +6,13 @@
       "__typename": "Organization"
     },
     {
-      "login": "Laurier-Fintech",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/122145319?v=4",
+      "login": "thegoldenhack",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48656399?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "science-gpt",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/171190435?v=4",
       "__typename": "Organization"
     }
   ]

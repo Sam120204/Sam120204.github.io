@@ -1,6 +1,177 @@
 {
-  "closed": 0,
+  "closed": 1,
   "data": [
+    {
+      "id": "PR_kwDOMTn5zs6OaVv7",
+      "title": "Fix Sparse Vector Generation and MilvusDB Insert/Search Function Integration",
+      "url": "https://github.com/science-gpt/science-gpt/pull/92",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2025-03-12T21:38:17Z",
+      "number": 92,
+      "changedFiles": 2,
+      "additions": 27,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "science-gpt",
+        "url": "https://github.com/science-gpt/science-gpt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/171190435?v=4",
+          "login": "science-gpt",
+          "url": "https://github.com/science-gpt"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMTn5zs6LKh0g",
+      "title": "implementing hybrid-search but needs to integrate into other existing classes structures/embedding models. ",
+      "url": "https://github.com/science-gpt/science-gpt/pull/88",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7530280?u=1db5d7f106666693b4b83b31db6eef915e3ac0e0&v=4",
+        "url": "https://github.com/bing1100",
+        "login": "bing1100"
+      },
+      "createdAt": "2025-02-13T21:42:03Z",
+      "number": 88,
+      "changedFiles": 9,
+      "additions": 430,
+      "deletions": 289,
+      "baseRepository": {
+        "name": "science-gpt",
+        "url": "https://github.com/science-gpt/science-gpt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/171190435?v=4",
+          "login": "science-gpt",
+          "url": "https://github.com/science-gpt"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMTn5zs6JSlCg",
+      "title": "updating README and adding Sam's credential to user_config",
+      "url": "https://github.com/science-gpt/science-gpt/pull/83",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7530280?u=1db5d7f106666693b4b83b31db6eef915e3ac0e0&v=4",
+        "url": "https://github.com/bing1100",
+        "login": "bing1100"
+      },
+      "createdAt": "2025-01-28T22:45:00Z",
+      "number": 83,
+      "changedFiles": 2,
+      "additions": 18,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "science-gpt",
+        "url": "https://github.com/science-gpt/science-gpt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/171190435?v=4",
+          "login": "science-gpt",
+          "url": "https://github.com/science-gpt"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOMTn5zs6IkjRR",
+      "title": "updating README",
+      "url": "https://github.com/science-gpt/science-gpt/pull/78",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7530280?u=1db5d7f106666693b4b83b31db6eef915e3ac0e0&v=4",
+        "url": "https://github.com/bing1100",
+        "login": "bing1100"
+      },
+      "createdAt": "2025-01-22T04:01:24Z",
+      "number": 78,
+      "changedFiles": 1,
+      "additions": 137,
+      "deletions": 16,
+      "baseRepository": {
+        "name": "science-gpt",
+        "url": "https://github.com/science-gpt/science-gpt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/171190435?v=4",
+          "login": "science-gpt",
+          "url": "https://github.com/science-gpt"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJX_Ies6HdZs0",
+      "title": "update the logo and title format",
+      "url": "https://github.com/thegoldenhack/website-2023/pull/16",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50757115?u=9934ae3beefe7d4f70dfb11832f4a72633d1be69&v=4",
+        "url": "https://github.com/karmyreen",
+        "login": "karmyreen"
+      },
+      "createdAt": "2025-01-12T18:10:25Z",
+      "number": 16,
+      "changedFiles": 5,
+      "additions": 8,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "website-2023",
+        "url": "https://github.com/thegoldenhack/website-2023",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/48656399?v=4",
+          "login": "thegoldenhack",
+          "url": "https://github.com/thegoldenhack"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDONDT1Ts6Ea9HT",
+      "title": "improving the feature of adding and editing course, now user could see the msg while doing backend is loading for FAISS",
+      "url": "https://github.com/bobhaotian/Tutorion-MVP/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75916625?u=a7ddc36fd2adb03f67050fcabcf46851be23c811&v=4",
+        "url": "https://github.com/Sam120204",
+        "login": "Sam120204"
+      },
+      "createdAt": "2024-12-07T23:31:47Z",
+      "number": 3,
+      "changedFiles": 20,
+      "additions": 10768,
+      "deletions": 312,
+      "baseRepository": {
+        "name": "Tutorion-MVP",
+        "url": "https://github.com/bobhaotian/Tutorion-MVP",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/112147566?u=3e7e13d3bf73b9c113add4fd0abda1e60be47649&v=4",
+          "login": "bobhaotian",
+          "url": "https://github.com/bobhaotian"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDONDT1Ts6EAAes",
+      "title": "update the courses page and adding the video chat page",
+      "url": "https://github.com/bobhaotian/Tutorion-MVP/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75916625?u=a7ddc36fd2adb03f67050fcabcf46851be23c811&v=4",
+        "url": "https://github.com/Sam120204",
+        "login": "Sam120204"
+      },
+      "createdAt": "2024-12-04T08:59:06Z",
+      "number": 2,
+      "changedFiles": 14,
+      "additions": 3593,
+      "deletions": 291,
+      "baseRepository": {
+        "name": "Tutorion-MVP",
+        "url": "https://github.com/bobhaotian/Tutorion-MVP",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/112147566?u=3e7e13d3bf73b9c113add4fd0abda1e60be47649&v=4",
+          "login": "bobhaotian",
+          "url": "https://github.com/bobhaotian"
+        }
+      }
+    },
     {
       "id": "PR_kwDOMkk3y854plHC",
       "title": "Sam",
@@ -29,7 +200,7 @@
     {
       "id": "MDExOlB1bGxSZXF1ZXN0NTQ3ODI0NDQ4",
       "title": "Update text",
-      "url": "https://github.com/kevincui1993/onlineOCR/pull/2",
+      "url": "https://github.com/kevincui88/onlineOCR/pull/2",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/75916625?u=a7ddc36fd2adb03f67050fcabcf46851be23c811&v=4",
@@ -43,16 +214,16 @@
       "deletions": 1,
       "baseRepository": {
         "name": "onlineOCR",
-        "url": "https://github.com/kevincui1993/onlineOCR",
+        "url": "https://github.com/kevincui88/onlineOCR",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/54859268?u=15e17759889ce02236d800e7d8bd0ff96ee3996d&v=4",
-          "login": "kevincui1993",
-          "url": "https://github.com/kevincui1993"
+          "login": "kevincui88",
+          "url": "https://github.com/kevincui88"
         }
       }
     }
   ],
-  "merged": 2,
+  "merged": 8,
   "open": 0,
-  "totalCount": 2
+  "totalCount": 9
 }
