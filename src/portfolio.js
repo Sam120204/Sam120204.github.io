@@ -315,7 +315,7 @@ const experience = {
           duration: "Jan 2025 - Present",
           location: "Ottawa, ON, Canada",
           description: `
-          Building a modular, flexible system for evaluating and optimizing large language models (LLMs) by integrating features like retrieval-augmented generation (RAG), automated testing, and customizable configurations.`,
+          Building a production-ready RAG (Retrieval-Augmented Generation) pipeline, implementing hybrid search with vector embeddings and reranking techniques to optimize information retrieval. Developed an interactive front-end interface using Streamlit for easy system interaction and deployed the complete solution on Azure VM for reliable, scalable access.`,
           color: "#000000",
         },
         {
@@ -342,7 +342,7 @@ const experience = {
           location: "Montreal, Québec, Canada",
           description: `
           Utilized the Python Reddit API Wrapper to gather posts and comments, filtered with the Named Entity; 
-          Recognition and spaCy model, and performed sentiment analysis with OpenAI’s LLMs; 
+          Recognition and spaCy model, and performed sentiment analysis with OpenAI's LLMs; 
           Deployed functions on AWS to fetch stock ticker prices from Yahoo Finance, storing the data in PostgreSQL; 
           Fine-tuned a BERT model using sentiment scores and time series prices as labels, training it to analyze and predict stock trends; 
           Integrated a chatbot using GPT-4 with RAG to fetch additional papers and provide users with analysis based on the correlation between time series prices and sentiment analysis; 
