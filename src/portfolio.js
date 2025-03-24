@@ -307,6 +307,15 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Software Development Engineer",
+          company: "Amazon",
+          company_url: "https://www.amazon.com/",
+          logo_path: "amazon_logo.png",
+          duration: "I dont know when (｡•ˇ‸ˇ•｡)",
+          location: "Canada",
+          description: `Passed the interview with two rounds but unfortunatly get on the waitlist.`,
+        },
+        {
           title: "Machine Learning Engineer",
           company: "Health Canada",
           company_url:
