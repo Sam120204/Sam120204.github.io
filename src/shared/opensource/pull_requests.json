@@ -2,6 +2,27 @@
   "closed": 1,
   "data": [
     {
+      "id": "PR_kwDOMTn5zs6PiI4x",
+      "title": "Reranker class Integration & UI Improvements for Search Optimization",
+      "url": "https://github.com/science-gpt/science-gpt/pull/94",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2025-03-20T21:55:22Z",
+      "number": 94,
+      "changedFiles": 7,
+      "additions": 220,
+      "deletions": 23,
+      "baseRepository": {
+        "name": "science-gpt",
+        "url": "https://github.com/science-gpt/science-gpt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/171190435?v=4",
+          "login": "science-gpt",
+          "url": "https://github.com/science-gpt"
+        }
+      }
+    },
+    {
       "id": "PR_kwDOMTn5zs6OaVv7",
       "title": "Fix Sparse Vector Generation and MilvusDB Insert/Search Function Integration",
       "url": "https://github.com/science-gpt/science-gpt/pull/92",
@@ -224,6 +245,6 @@
     }
   ],
   "merged": 8,
-  "open": 0,
-  "totalCount": 9
+  "open": 1,
+  "totalCount": 10
 }

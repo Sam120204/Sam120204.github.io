@@ -2,6 +2,26 @@
   "closed": 0,
   "data": [
     {
+      "id": "I_kwDOKr-Pws6vUe6N",
+      "closed": false,
+      "title": "支持finetuned模型",
+      "createdAt": "2025-03-23T18:23:56Z",
+      "url": "https://github.com/Calcium-Ion/new-api/issues/897",
+      "number": 897,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "new-api",
+        "url": "https://github.com/Calcium-Ion/new-api",
+        "owner": {
+          "login": "Calcium-Ion",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/61247483?v=4",
+          "url": "https://github.com/Calcium-Ion"
+        }
+      }
+    },
+    {
       "id": "I_kwDOJPMxas6LnePL",
       "closed": false,
       "title": "The pop-up window does not sync with the submission, days are showing off",
@@ -22,6 +42,6 @@
       }
     }
   ],
-  "open": 1,
-  "totalCount": 1
+  "open": 2,
+  "totalCount": 2
 }
