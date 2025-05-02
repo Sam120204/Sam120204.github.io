@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Jiayou's Portfolio",
   description:
-    "I'm a Third-Year Computer Science Student at University of Waterloo, Canada. Primarily interested in AI, Back-end development, Game Design Machine Learning and Data Science.",
+    "I'm a 4th-Year Computer Science Student at University of Waterloo, Canada. Primarily interested in Full-Stack development, Android App development, FinTech, and Artificial Intelligence.",
   og: {
     title: "Sam Zhong Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "钟佳有",
   nickname: "Sam Zhong",
   subTitle:
-    "Hi! I'm a 3B Year Computer Science Student at University of Waterloo. Primarily interested in Machine Learning, Fintech, Application Development, and Full Stack Development. Feel free to connect with me through Linkedln!",
+    "Hi! I'm a 4th-Year Computer Science Student at University of Waterloo, Canada. Primarily interested in Full-Stack development, Android App development, FinTech, and Artificial Intelligence. Feel free to connect with me through Linkedln!",
   resumeLink:
     "https://drive.google.com/file/d/1h0Ms8pZQf_Fe7Cor44oE6edit2oIalEm/view?usp=sharing",
   portfolio_repository:

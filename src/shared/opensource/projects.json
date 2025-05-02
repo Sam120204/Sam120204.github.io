@@ -19,6 +19,24 @@
       ]
     },
     {
+      "id": "R_kgDOL6lepg",
+      "name": "Stock_Trading_Reddit",
+      "createdAt": "2024-05-12T17:49:35Z",
+      "url": "https://github.com/Sam120204/Stock_Trading_Reddit",
+      "description": "TrendSage aims to develop a correlation between stock and cryptocurrency predictions based on the posts or comments on Reddit and the actual market trends.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
       "id": "R_kgDOMepxEA",
       "name": "Fin4All",
       "createdAt": "2024-08-03T02:48:41Z",
@@ -55,24 +73,6 @@
         {
           "name": "Jupyter Notebook",
           "iconifyClass": "logos-jupyter"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOL6lepg",
-      "name": "Stock_Trading_Reddit",
-      "createdAt": "2024-05-12T17:49:35Z",
-      "url": "https://github.com/Sam120204/Stock_Trading_Reddit",
-      "description": "TrendSage aims to develop a correlation between stock and cryptocurrency predictions based on the posts or comments on Reddit and the actual market trends.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
         },
         {
           "name": "Dockerfile",

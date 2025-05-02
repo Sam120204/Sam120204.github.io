@@ -2,22 +2,42 @@
   "closed": 0,
   "data": [
     {
+      "id": "I_kwDONzZ_ds6yP0Md",
+      "closed": false,
+      "title": "Account gets block after I delete the account",
+      "createdAt": "2025-04-12T14:02:58Z",
+      "url": "https://github.com/zetaloop/cursor-shadow-patch/issues/11",
+      "number": 11,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "cursor-shadow-patch",
+        "url": "https://github.com/zetaloop/cursor-shadow-patch",
+        "owner": {
+          "login": "zetaloop",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/36418285?u=292cccd578492440ee1a7a99af10e919dbea10f4&v=4",
+          "url": "https://github.com/zetaloop"
+        }
+      }
+    },
+    {
       "id": "I_kwDOKr-Pws6vUe6N",
       "closed": false,
       "title": "支持finetuned模型",
       "createdAt": "2025-03-23T18:23:56Z",
-      "url": "https://github.com/Calcium-Ion/new-api/issues/897",
+      "url": "https://github.com/QuantumNous/new-api/issues/897",
       "number": 897,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "new-api",
-        "url": "https://github.com/Calcium-Ion/new-api",
+        "url": "https://github.com/QuantumNous/new-api",
         "owner": {
-          "login": "Calcium-Ion",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/61247483?v=4",
-          "url": "https://github.com/Calcium-Ion"
+          "login": "QuantumNous",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/205075698?v=4",
+          "url": "https://github.com/QuantumNous"
         }
       }
     },
@@ -42,6 +62,6 @@
       }
     }
   ],
-  "open": 2,
-  "totalCount": 2
+  "open": 3,
+  "totalCount": 3
 }

@@ -11,6 +11,11 @@
       "__typename": "Organization"
     },
     {
+      "login": "QuantumNous",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/205075698?v=4",
+      "__typename": "Organization"
+    },
+    {
       "login": "science-gpt",
       "avatarUrl": "https://avatars.githubusercontent.com/u/171190435?v=4",
       "__typename": "Organization"
