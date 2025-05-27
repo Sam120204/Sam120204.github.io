@@ -5,13 +5,17 @@
       "id": "PR_kwDOMTn5zs6Q2rRY",
       "title": "Improving the front-end and the reranker logic",
       "url": "https://github.com/science-gpt/science-gpt/pull/95",
-      "state": "OPEN",
-      "mergedBy": null,
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/168779561?v=4",
+        "url": "https://github.com/spencer-crook",
+        "login": "spencer-crook"
+      },
       "createdAt": "2025-04-01T01:41:42Z",
       "number": 95,
-      "changedFiles": 19,
-      "additions": 629,
-      "deletions": 124,
+      "changedFiles": 20,
+      "additions": 691,
+      "deletions": 134,
       "baseRepository": {
         "name": "science-gpt",
         "url": "https://github.com/science-gpt/science-gpt",
@@ -269,7 +273,7 @@
       }
     }
   ],
-  "merged": 9,
-  "open": 1,
+  "merged": 10,
+  "open": 0,
   "totalCount": 11
 }

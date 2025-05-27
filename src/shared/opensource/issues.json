@@ -1,6 +1,63 @@
 {
-  "closed": 0,
+  "closed": 1,
   "data": [
+    {
+      "id": "I_kwDOMT5TYM633Btk",
+      "closed": false,
+      "title": "RuntimeWarninig",
+      "createdAt": "2025-05-22T22:10:19Z",
+      "url": "https://github.com/docling-project/docling/issues/1642",
+      "number": 1642,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/75900930?u=56d8553c772e3e607d607fb653eec7d921dae40c&v=4",
+            "name": "Cesar Berrospi Ramis",
+            "url": "https://github.com/ceberam"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/91719829?u=99a961dafadf59c10f043912f291a658b6b4a465&v=4",
+            "name": "Peter W. J. Staar",
+            "url": "https://github.com/PeterStaar-IBM"
+          }
+        ]
+      },
+      "repository": {
+        "name": "docling",
+        "url": "https://github.com/docling-project/docling",
+        "owner": {
+          "login": "docling-project",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188446108?v=4",
+          "url": "https://github.com/docling-project"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOMT5TYM63r0rQ",
+      "closed": true,
+      "title": "cell_bbox.intersection_area_with(bbox) / cell_bbox.area() ZeroDivisionError: float division by zero",
+      "createdAt": "2025-05-22T00:39:11Z",
+      "url": "https://github.com/docling-project/docling/issues/1633",
+      "number": 1633,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/57208860?u=771c42ae3199c4b7dc18dd761655aa26e561b489&v=4",
+            "name": "Said Gürbüz",
+            "url": "https://github.com/Saidgurbuz"
+          }
+        ]
+      },
+      "repository": {
+        "name": "docling",
+        "url": "https://github.com/docling-project/docling",
+        "owner": {
+          "login": "docling-project",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/188446108?v=4",
+          "url": "https://github.com/docling-project"
+        }
+      }
+    },
     {
       "id": "I_kwDONzZ_ds6yP0Md",
       "closed": false,
@@ -62,6 +119,6 @@
       }
     }
   ],
-  "open": 3,
-  "totalCount": 3
+  "open": 4,
+  "totalCount": 5
 }
